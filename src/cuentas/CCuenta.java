@@ -70,7 +70,6 @@ public class CCuenta {
 	private void setTipoInteres(double tipoInteres) {
 		this.tipoInteres = tipoInteres;
 		
-		//hhhhohohoohh
 	}
 }
 
